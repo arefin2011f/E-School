@@ -1,0 +1,635 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+
+/*************************************************
+ * Responsive code start
+ * **********************************************/
+
+
+
+/****************************************************
+  ##Device = Most of the Low Resolution Mobiles (Portrait)
+  ##Screen = B/w 279px to 320px
+****************************************************/
+
+@media (min-width: 279px) and (max-width: 320px) {
+/* Code start */
+  
+
+.main-menu .navbar-light .navbar-nav .nav-link.active {
+    font-size: 14px;
+}
+
+.main-menu .navbar-light .navbar-nav .nav-link.active {
+    font-size: 14px;
+}
+
+.main-menu .btn-success {
+    padding: 4px 19px;
+    border-radius: 40px;
+    font-size: 14px;
+    margin: 0px 0px 0px 95px;
+}
+
+.banner h5 {
+    font-size: 12px;
+    line-height: 22px;
+    margin: 10px 0px 10px;
+    text-align: center;
+}
+
+.banner h1 {
+    font-size: 28px;
+    line-height: 38px;
+    font-weight: 600;
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.banner p {
+    font-size: 12px;
+    line-height: 22px;
+    text-align: center;
+
+}
+
+.banner .btn-success {
+    padding: 7px 22px;
+    border-radius: 40px;
+    font-size: 12px;
+    margin: 15px 0px 50px 68px;
+}
+
+.inner-feature img {
+    width: 56px;
+    height: 70px;
+    margin: 0px 0px 14px;
+}
+
+.inner-feature h4 {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.inner-feature p {
+    font-size: 13px;
+    line-height: 23px;
+    margin: 0px;
+}
+
+.courses {
+    width: 100%;
+    padding: 0px;
+}
+
+.courses h2 {
+    font-size: 24px;
+    line-height: 34px;
+    margin: 0px 0px 25px;
+    text-align: center;
+}
+
+.courses .card .card-body h5 {
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.courses .card .card-body p {
+    font-size: 13px;
+    line-height: 23px;
+    margin: 0px 0px 14px;
+}
+
+.courses .card .card-body .btn-success {
+    padding: 5px 15px;
+    border-radius: 40px;
+    font-size: 12px;
+}
+
+.courses .card .card-body .desc {
+  font-size: 12px;
+  line-height: 17px;
+}
+
+.testimonial h2 {
+    font-size: 28px;
+    line-height: 38px;
+    margin: 0px 0px 50px;
+}
+
+.testimonial .img-round {
+    width: 80px;
+    height: 80px;
+}
+
+.testimonial p {
+    font-size: 10px;
+    line-height: 20px;
+    margin: -26px 0px 0px 30px;
+}
+
+.footer-widget p {
+    font-size: 10px;
+    line-height: 20px;
+    font-weight: 500;
+    margin: 9px;
+    color: #FFF;
+}
+
+.footer-widget h6 {
+    font-size: 14px;
+    line-height: 22px;
+    margin: 15px 0px 10px;
+}
+
+.footer-widget ul a {
+    display: block;
+    font-size: 11px;
+    line-height: 20px;
+}
+
+.copyright p {
+    font-size: 8px;
+    line-height: 18px;
+}
+
+/** Code end **/
+}
+
+
+
+
+
+
+
+
+
+
+/****************************************************** 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+******************************************************/
+@media (min-width: 320px) and (max-width: 480px) {
+  
+/* Code start */
+  
+.main-menu .navbar-light .navbar-nav .nav-link.active {
+    font-size: 15px;
+}
+
+.main-menu .navbar-light .navbar-nav .nav-link.active {
+    font-size: 15px;
+}
+
+.main-menu .btn-success {
+    padding: 4px 19px;
+    border-radius: 40px;
+    font-size: 14px;
+    margin: 0px 0px 0px 143px;
+}
+
+.banner h5 {
+    font-size: 14px;
+    line-height: 24px;
+    margin: 10px 0px 10px;
+    text-align: center;
+}
+
+.banner h1 {
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: 600;
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.banner p {
+    font-size: 13px;
+    line-height: 23px;
+    text-align: center;
+
+}
+
+.banner .btn-success {
+    padding: 8px 24px;
+    border-radius: 40px;
+    font-size: 13px;
+    margin: 15px 0px 50px 120px;
+}
+
+.inner-feature img {
+    width: 60px;
+    height: 74px;
+    margin: 0px 0px 14px;
+}
+
+.inner-feature h4 {
+    font-size: 21px;
+    line-height: 31px;
+}
+
+.inner-feature p {
+    font-size: 13px;
+    line-height: 23px;
+    margin: 0px;
+}
+
+.courses {
+    width: 100%;
+    padding: 0px;
+}
+
+.courses h2 {
+    font-size: 26px;
+    line-height: 34px;
+    margin: 0px 0px 25px;
+    text-align: center;
+}
+
+.courses .card .card-body h5 {
+    font-size: 17px;
+    line-height: 27px;
+}
+
+.courses .card .card-body p {
+    font-size: 14px;
+    line-height: 24px;
+    margin: 0px 0px 14px;
+}
+
+.courses .card .card-body .btn-success {
+    padding: 5px 15px;
+    border-radius: 40px;
+    font-size: 12px;
+}
+
+.courses .card .card-body .desc {
+  font-size: 12px;
+  line-height: 17px;
+}
+
+.testimonial h2 {
+    font-size: 28px;
+    line-height: 38px;
+    margin: 0px 0px 50px;
+}
+
+.testimonial .img-round {
+    width: 80px;
+    height: 80px;
+}
+
+.testimonial p {
+    font-size: 10px;
+    line-height: 20px;
+    margin: -26px 0px 0px 30px;
+}
+
+.footer-widget p {
+    font-size: 11px;
+    line-height: 20px;
+    font-weight: 500;
+    margin: 9px;
+    color: #FFF;
+    text-align: center;
+}
+
+.footer-widget h6 {
+    font-size: 14px;
+    line-height: 22px;
+    margin: 15px 25px 10px;
+}
+
+.footer-widget ul a {
+    display: block;
+    font-size: 11px;
+    line-height: 20px;
+    margin: 0px 25px 0px;
+}
+
+.copyright p {
+    font-size: 9px;
+    line-height: 18px;
+}
+
+/** Code end **/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/****************************************************** 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*******************************************************/
+@media (min-width: 481px) and (max-width: 767px) {
+
+/* Code start */
+  
+.main-menu .navbar-light .navbar-nav .nav-link.active {
+    font-size: 15px;
+}
+
+.main-menu .navbar-light .navbar-nav .nav-link.active {
+    font-size: 15px;
+}
+
+.main-menu .btn-success {
+    padding: 6px 25px;
+    border-radius: 40px;
+    font-size: 15px;
+    margin: 0px 0px 0px 15px;
+}
+
+.banner h5 {
+    font-size: 15px;
+    line-height: 25px;
+    margin: 10px 0px 10px;
+    text-align: center;
+}
+
+.banner h1 {
+    font-size: 34px;
+    line-height: 44px;
+    font-weight: 600;
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.banner p {
+    font-size: 15px;
+    line-height: 25px;
+    text-align: center;
+
+}
+
+.banner .btn-success {
+    padding: 10px 30px;
+    border-radius: 40px;
+    font-size: 14px;
+    margin: 15px 0px 50px 186px;
+}
+
+.inner-feature img {
+    width: 62px;
+    height: 77px;
+    margin: 0px 0px 16px;
+}
+
+.inner-feature h4 {
+    font-size: 21px;
+    line-height: 31px;
+}
+
+.inner-feature p {
+    font-size: 14px;
+    line-height: 23px;
+    margin: 0px;
+}
+
+.courses {
+    width: 100%;
+    padding: 0px;
+}
+
+.courses h2 {
+    font-size: 28px;
+    line-height: 38px;
+    margin: 0px 0px 25px;
+    text-align: center;
+}
+
+.courses .card .card-body h5 {
+    font-size: 17px;
+    line-height: 27px;
+}
+
+.courses .card .card-body p {
+    font-size: 14px;
+    line-height: 24px;
+    margin: 0px 0px 14px;
+}
+
+.courses .card .card-body .btn-success {
+    padding: 5px 15px;
+    border-radius: 40px;
+    font-size: 12px;
+}
+
+.courses .card .card-body .desc {
+  font-size: 12px;
+  line-height: 17px;
+}
+
+.testimonial h2 {
+    font-size: 29px;
+    line-height: 38px;
+    margin: 0px 0px 50px;
+}
+
+.testimonial .img-round {
+    width: 85px;
+    height: 85px;
+}
+
+.testimonial p {
+    font-size: 13px;
+    line-height: 20px;
+    margin: -15px 0px 0px 30px;
+}
+
+.footer-widget p {
+    font-size: 12px;
+    line-height: 22px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.footer-widget h6 {
+    font-size: 14px;
+    line-height: 22px;
+    margin: 15px 0px 10px;
+}
+
+.footer-widget ul a {
+    display: block;
+    font-size: 11px;
+    line-height: 20px;
+}
+
+.copyright p {
+    font-size: 9px;
+    line-height: 18px;
+}
+
+/** Code end **/
+}
+
+
+
+
+
+
+
+
+
+
+
+/******************************************
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*****************************************/
+@media (min-width: 768px) and (max-width: 1024px) {
+
+
+/* Code start */
+  
+.main-menu .navbar-light .navbar-nav .nav-link.active {
+    font-size: 15px;
+    margin: 25px 0px 0px 30px;
+}
+
+.main-menu .navbar-light .navbar-nav .nav-link {
+    font-size: 15px;
+    margin: 0px 0px 0px 30px;
+
+}
+
+.main-menu .btn-success {
+    padding: 6px 25px;
+    border-radius: 40px;
+    font-size: 15px;
+    margin: 0px 0px 0px 15px;
+}
+
+.banner h5 {
+    font-size: 16px;
+    line-height: 26px;
+    margin: 15px 0px 10px;
+}
+
+.banner h1 {
+    font-size: 38px;
+    line-height: 48px;
+    font-weight: 600;
+    margin: 22px 0px;
+}
+
+.banner p {
+    font-size: 16px;
+    line-height: 26px;
+
+}
+
+.banner .btn-success {
+    padding: 12px 33px;
+    border-radius: 40px;
+    font-size: 15px;
+    margin: 15px 0px 50px 0px;
+}
+
+.inner-feature img {
+    width: 66px;
+    height: 81px;
+    margin: 0px 0px 16px;
+}
+
+.inner-feature h4 {
+    font-size: 23px;
+    line-height: 33px;
+}
+
+.inner-feature p {
+    font-size: 16px;
+    line-height: 26px;
+    margin: 0px;
+}
+
+
+.courses h2 {
+    font-size: 30px;
+    line-height: 40px;
+    margin: 0px 0px 25px;
+    text-align: center;
+}
+
+.courses .card .card-body h5 {
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.courses .card .card-body p {
+    font-size: 16px;
+    line-height: 26px;
+    margin: 5px 0px 20px;
+}
+
+.courses .card .card-body .btn-success {
+    padding: 10px 26px;
+    border-radius: 40px;
+    font-size: 14px;
+}
+
+.courses .card .card-body .desc {
+  font-size: 15px;
+  line-height: 25px;
+}
+
+.testimonial h2 {
+    font-size: 32px;
+    line-height: 42px;
+    margin: 0px 0px 65px;
+}
+
+.testimonial .img-round {
+    width: 90px;
+    height: 90px;
+}
+
+.testimonial p {
+    font-size: 15px;
+    line-height: 25px;
+    margin: -2px 0px 0px 20px;
+}
+
+.footer-widget p {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.footer-widget h6 {
+    font-size: 14px;
+    line-height: 24px;
+    margin: 25px 0px 10px;
+}
+
+.footer-widget ul a {
+    display: block;
+    font-size: 13px;
+    line-height: 25px;
+}
+
+.copyright p {
+    font-size: 11px;
+    line-height: 18px;
+}
+
+/** Code end **/
+}
+
+
+
+
+
